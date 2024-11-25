@@ -1,5 +1,5 @@
 {
-  "name": "MALVIN-MD",
+  "name": "TERI MOUT",
   "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
   "logo": "https://files.catbox.moe/uxnee2.jpg",
   "keywords": ["bot"],
@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "e6JFmI6R#D-Q-NWer0LEi8Bfu6_vjo7ac6rijNLTLDgQ_UH9FWfc",
       "required": true
     },  
 
